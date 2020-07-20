@@ -25,6 +25,8 @@ public class repo{
         
         JOptionPane.showMessageDialog(null, "ya quedo, esto solo es 2da prueba 1:44 am zzzzz ");
          JOptionPane.showMessageDialog(null, "ya quedo, esto solo es 2da prueba 1:44 am zzzzz ");
+                  JOptionPane.showMessageDialog(null, "ya quedo, esto solo es 2da prueba 1:44 am zzzzz ");
+
     }
     
 }
