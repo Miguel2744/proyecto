@@ -289,13 +289,14 @@ public class Interfaz extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
+//boton guardar
     private void btnguardarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnguardarActionPerformed
        int eli=tabla.getSelectedRowCount();
        if(eli >=0)
        {
            model.removeRow(eli);
        }else{
+           
            JOptionPane.showInternalMessageDialog(null, "No HAY DATOS POR ELIMINAR ");
            
        }
