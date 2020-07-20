@@ -14,6 +14,10 @@ public class repo{
         /*  ejemplo 2 de aporte probando*/
         
         JOptionPane.showMessageDialog(null, "aldrich tu turno");
+        
+             /*  ejemplo 3 de aporte probando*/
+        
+        JOptionPane.showMessageDialog(null, "Liz tu turno");
     }
     
 }
